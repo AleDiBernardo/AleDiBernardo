@@ -53,17 +53,18 @@
 }
 
 .responsive-img {
-  width: 48%; /* Set the image width to 48% of its container */
-  margin: 10px; /* Add some margin between the images */
+  width: calc((100% / 2) - 20px); /* Set the image width to 48% of its container */
+  /* margin: 10px; Add some margin between the images */
+  margin: 10px;
 }
 
 /* Media query for smaller screens */
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .image-container {
     flex-direction: column; /* Stack the images on mobile */
   }
   .responsive-img {
-    width: 100%; /* Make the image fit the full width on mobile */
+    width: calc(100% / 2 - 10px); /* Make the image fit the full width on mobile */
   }
-}
+} */
 </style>
