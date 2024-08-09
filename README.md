@@ -23,19 +23,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div class="image-container">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=AleDiBernardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-    alt="GitHub stats"
-    class="responsive-img"
-  />
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AleDiBernardo&layout=compact&langs_count=8&theme=algolia"
-    alt="Top programming languages"
-    class="responsive-img"
-  />
-</div>
+<p align="center">
 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AleDiBernardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AleDiBernardo&layout=compact&langs_count=8&theme=algolia"/>
+
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -43,28 +36,3 @@
 <a href="https://linkedin.com/in/aledibernardo"><img src="https://img.shields.io/badge/-AleDiBernardo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:alessandrodibernardo04@gmail.com"><img src="https://img.shields.io/badge/-alessandrodibernardo04@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<style>
-.image-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between; /* space images evenly */
-  width: 100%; /* Make the container fit the width of its parent */
-}
-
-.responsive-img {
-  width: calc((100% / 2) - 20px); /* Set the image width to 48% of its container */
-  /* margin: 10px; Add some margin between the images */
-  margin: 10px;
-}
-
-/* Media query for smaller screens */
-/* @media screen and (max-width: 768px) {
-  .image-container {
-    flex-direction: column; /* Stack the images on mobile */
-  }
-  .responsive-img {
-    width: calc(100% / 2 - 10px); /* Make the image fit the full width on mobile */
-  }
-} */
-</style>
