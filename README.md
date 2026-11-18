@@ -21,6 +21,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 
+<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p >
@@ -29,6 +30,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AleDiBernardo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
